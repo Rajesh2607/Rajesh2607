@@ -55,14 +55,19 @@
   <a href="https://github.com/" target="_blank">
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="60" />
   </a>
-  <a href="#" target="_blank">
-  <img style="margin: 10px" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-ui-ux-design-digital-marketing-flatart-icons-outline-flatarticons.png" alt="UI/UX Design" height="60" />
+
+
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="60" />
 </a>
 
 <!-- Webflow -->
 <a href="https://webflow.com/" target="_blank">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow" height="60" />
 </a>
+
+
 
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank">
