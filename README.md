@@ -55,6 +55,39 @@
   <a href="https://github.com/" target="_blank">
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="60" />
   </a>
+  <a href="#" target="_blank">
+  <img style="margin: 10px" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-ui-ux-design-digital-marketing-flatart-icons-outline-flatarticons.png" alt="UI/UX Design" height="60" />
+</a>
+
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="60" />
+</a>
+
+<!-- Webflow -->
+<a href="https://webflow.com/" target="_blank">
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow" height="60" />
+</a>
+
+<!-- FlutterFlow (custom PNG since no official icon) -->
+<a href="https://flutterflow.io/" target="_blank">
+  <img style="margin: 10px" src="https://play-lh.googleusercontent.com/uZK6Uuv3jz1L39mYArAJKJ9EZKWUO5Gjox9zLFrBBEJhkbPv7b0F7r1g1cSMpKkbuow=w600-h300-pc0xffffff-pd" alt="FlutterFlow" height="60" />
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="60" />
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" />
+</a>
+
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="60" />
+</a>
   </p>
 
 ### 🚀 Featured Projects
